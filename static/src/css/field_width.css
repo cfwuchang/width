@@ -1,0 +1,4 @@
+.o_list_table th[data-name="product_id"]{
+    min-width: 290px !important;
+    width: 290px !important;
+}
